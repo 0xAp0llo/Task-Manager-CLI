@@ -127,37 +127,6 @@ python main.py update abc123 -s in_progress -p high
 python main.py delete abc123
 ```
 
-## 📊 Example Output
-
-**Adding a task:**
-
-Task added with ID: 8a7b6c5d
-
-**Listing tasks:**
-
-+----------+----------------------+--------------------------------+----------+------------+------------+----------------------+
-| ID       | Title                | Description                    | Priority | Status     | Due Date   | Tags                 |
-+==========+======================+================================+==========+============+============+======================+
-| 8a7b6c5d | Complete project     | Finish the quarterly report    | high     | pending    | 2023-09-30 | work, reports, urgent|
-+----------+----------------------+--------------------------------+----------+------------+------------+----------------------+
-| 1d2e3f4g | Buy groceries        | Milk, eggs, bread              | medium   | pending    | 2023-09-15 | personal, shopping   |
-+----------+----------------------+--------------------------------+----------+------------+------------+----------------------+
-| 5h6i7j8k | Schedule meeting     | Team sync for next sprint      | medium   | completed  | 2023-09-10 | work, meetings       |
-+----------+----------------------+--------------------------------+----------+------------+------------+----------------------+
-Total: 3 tasks
-
-**Viewing a task:**
-
-==================================================
-Task ID: 8a7b6c5d
-Title: Complete project report
-Description: Finish the quarterly report
-Priority: high
-Status: pending
-Created: 2023-09-10 16:30:45
-Due Date: 2023-09-30
-Tags: work, reports, urgent
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
