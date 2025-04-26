@@ -22,7 +22,7 @@ A simple yet powerful command-line task manager that helps you organize and trac
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/task-manager-cli.git
+git clone https://github.com/0xAp0llo/task-manager-cli.git
 cd task-manager-cli
 ```
 
